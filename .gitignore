@@ -1,5 +1,6 @@
 # VSCode
 .vscode
+settings.json
 
 # Local .terraform directories
 **/.terraform/*
@@ -36,5 +37,5 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-# lock file
+# terraform
 .terraform.lock.hcl
